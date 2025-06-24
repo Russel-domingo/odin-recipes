@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+    color: white
+    
+}
+
+body{
+    background-color: #555879;
+} 
+
+.container {
+    background-color: #98A1BC;
+    margin: auto;
+    width: 700px;
+    height: auto;
+}
+
+h1 {
+    font-size: 54px;
+    margin-bottom: 10px;
+    padding: 20px;
+    border: 2px solid #DED3C4;
+}
+
+img {
+    border: 2px solid #DED3C4;
+    margin-bottom: 10px;
+}
+
+
+ul, ol{
+    list-style: none;
+}
+
+.description {
+    border: 2px solid #DED3C4;
+    font-size: 16px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.ingredients,
+.step{
+    border: 2px solid #DED3C4;
+    font-size: 16px;
+    padding: 16px;
+    margin-bottom: 10px;
+}
+
+.ingredients h2,
+.step h2 {
+    font-size: 34px;
+}
+
+.bold {
+    font-weight: bold;
+}
+a {
+    font-size: 34px;
+    padding: 10px
+}
+
+
